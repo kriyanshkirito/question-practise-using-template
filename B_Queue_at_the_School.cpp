@@ -1,0 +1,88 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+/* ---------------- Fast IO ---------------- */
+#define fastio ios::sync_with_stdio(false); cin.tie(NULL); cout.tie(NULL);
+
+/* ---------------- Shortcuts ---------------- */
+#define ll long long
+#define pb push_back
+#define mp make_pair
+#define all(x) (x).begin(), (x).end()
+
+/* ---------------- Constants ---------------- */
+const int MOD = 1e9+7;
+const int INF = 1e9;
+
+/* ---------------- Useful Functions ---------------- */
+
+ll gcd(ll a, ll b){
+    if(b==0) return a;
+    return gcd(b, a%b);
+}
+
+ll lcm(ll a, ll b){
+    return (a/gcd(a,b))*b;
+}
+
+bool isPrime(int n){
+    if(n<=1) return false;
+    for(int i=2;i*i<=n;i++){
+        if(n%i==0) return false;
+    }
+    return true;
+}
+
+bool uniqueChar(string s){
+    unordered_set<char> st(s.begin(), s.end());
+    return s.size()==st.size();
+}
+
+/* ---------------- Problem Solve ---------------- */
+
+int maxsubarray(vector<int> & nums){
+int currsum=0;
+int maxsum=nums[0];
+for(int val:nums){
+   currsum=currsum+val;
+    maxsum=max(currsum,maxsum);
+     if(currsum<0){
+        currsum=0;
+ }
+}
+ return maxsum;
+}
+
+void solve(){
+ int n,t;
+    cin>>n>>t;
+    string s;
+    cin>>s;
+   
+    
+    for(int j=0;j<t;j++){
+      int i=0;
+      while(i<s.size()){
+        if(s[i]=='B' && s[i+1]=='G' ){
+          swap(s[i],s[i+1]);
+        
+        i+=2;
+        }else{
+          i++;
+        }
+      }
+    }
+      cout<<s;
+
+}
+
+/* ---------------- Main ---------------- */
+
+int main(){
+
+    fastio;
+
+        solve();
+    
+
+}
