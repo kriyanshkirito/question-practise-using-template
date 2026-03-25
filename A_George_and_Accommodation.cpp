@@ -62,7 +62,7 @@ void solve(){
   while(n--){
     int p,q;
     cin>>p>>q;
-    if(q-p>=2){
+    if(q-p  >=  2){
       count1++;
       
     }else{
