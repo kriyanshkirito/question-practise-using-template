@@ -12,5 +12,5 @@ Day->8 question done
 Day->9 question done 
 (i have taken gap due to my examp so if next time my examp come i will solve question earlier according to the dates of my exam and sumbit on the day of examp)
 Day->10 if you done and your answer has come partial error means you approch is right if any one say do that way then don't do only the way you are doing because your approch was right 
- Day=> done two question on from codechef which  was easy and one of codeforces .from codeforces question i learn that in this question we directly not apply XOR taking int a and b a^b because if we store 00101 as int then it come as 101 so leading zero will be lost and our output will come wrong, so we have to use strings
-
+ Day->11 done two question on from codechef which  was easy and one of codeforces .from codeforces question i learn that in this question we directly not apply XOR taking int a and b a^b because if we store 00101 as int then it come as 101 so leading zero will be lost and our output will come wrong, so we have to use strings
+Day ->12 do two question one was easy of codeforces and other was hard of codechef in codechef problem learn how to store max value if same key is present
