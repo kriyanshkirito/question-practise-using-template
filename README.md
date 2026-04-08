@@ -17,3 +17,4 @@ Day ->12 do two question one was easy of codeforces and other was hard of codech
 Day->13 done question on codeforces use pure math using modulus and absolute we can also do by for loop but can cause time linit exceed done second of codechef first i got wrong becuse i not include long long
 Day->14 from codeforces learn how to covert string directly to lower  and from codeforces question it was simple but it takes my lot off time so try these also(first this one )
 Day->15 done question ,question fro codeforces took time and learn that read all question condition properly
+Day->16 today question of codeforces and codechef was both hard i take about 2 to three hour to solve them and aslo take help to solve problem , today question check  patience of solver 
