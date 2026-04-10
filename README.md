@@ -1,4 +1,5 @@
-# question-practise-using-template
+# question-practise
+
 I Learn Day by Day something new from Question so I made this repository to improve myself.
 
 Day 1-> I use template for first time and codeforces beautiful year question and also tramp question
@@ -19,4 +20,3 @@ Day->14 from codeforces learn how to covert string directly to lower  and from c
 Day->15 done question ,question fro codeforces took time and learn that read all question condition properly
 Day->16 today question of codeforces and codechef was both hard i take about 2 to three hour to solve them and aslo take help to solve problem , today question check  patience of solver 
 Day->17 done question was bit tricky so try it again
-Day->18 both question are good but when you think your basic are clear try codeforces question insomina which teaches you when to find common elemnts of sequence then use or operation
