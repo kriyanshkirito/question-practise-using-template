@@ -1,0 +1,39 @@
+//https://www.codechef.com/practice/course/1-star-difficulty-problems/DIFF1200/problems/ABSTRING
+
+
+
+
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+	// your code goes here
+	int t;
+	cin>>t;
+	while(t--){
+	    int n;
+	    cin>>n;
+	    string s;
+	    cin>>s;
+	    unordered_map<char,int>freq;
+	    for(char x:s) freq[x]++;
+	    int count=0;
+	    for(auto & p:freq){
+	        if(p.second%2!=0  ){
+	            count++;
+	        }
+	       //cout<<p.second;
+	    }
+	    
+	   // cout<<endl;
+	    if(count==0){
+	        cout<<"yes"<<endl;
+	        
+	        
+	    }else{
+	        cout<<"no"<<endl;
+	    }
+	}
+	
+
+}
