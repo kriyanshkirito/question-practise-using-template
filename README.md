@@ -23,3 +23,4 @@ Day->17 done question was bit tricky so try it again
 Day->18  learn that if we want to find common element then use or opration
 Day->19 both question was easy nto take mcuh time
 Day->20 learn reverse vector is your vector is 1,5,4 and you want 4,5,1 then use reverse(v.begin(),v.end())
+Day->21 learned clear function it lets you clear element in vector
