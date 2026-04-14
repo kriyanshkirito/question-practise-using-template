@@ -24,3 +24,5 @@ Day->18  learn that if we want to find common element then use or opration
 Day->19 both question was easy nto take mcuh time
 Day->20 learn reverse vector is your vector is 1,5,4 and you want 4,5,1 then use reverse(v.begin(),v.end())
 Day->21 learned clear function it lets you clear element in vector
+Day->22 learned to from codeforces that if we want to m character then we can use cout<<string(m,'#');
+and from codechef problem learned that we can perform boolean operation on strin example if s1 length is 5 and s2 has has length 7 then cout<<s1==s2; >> false simalry we can use to check two string equal or not

@@ -14,6 +14,8 @@ int main(){
             cout<<"#"<<string(m-1,'.')<<endl;
         }
     }
+
+    
 }
 
 
