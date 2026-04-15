@@ -49,3 +49,4 @@ Day->21 learned clear function it lets you clear element in vector
 Day->22 learned to from codeforces that if we want to m character then we can use cout<<string(m,'#');
 and from codechef problem learned that we can perform boolean operation on strin example if s1 length is 5 and s2 has has length 7 then cout<<s1==s2; >> false simalry we can use to check two string equal or not
 ---
+Day->23 learn to find power from codechef ex x^n  then we can use cout<<pow(x,n);
