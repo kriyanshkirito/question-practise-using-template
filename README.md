@@ -50,3 +50,26 @@ Day->22 learned to from codeforces that if we want to m character then we can us
 and from codechef problem learned that we can perform boolean operation on strin example if s1 length is 5 and s2 has has length 7 then cout<<s1==s2; >> false simalry we can use to check two string equal or not
 ---
 Day->23 learn to find power from codechef ex x^n  then we can use cout<<pow(x,n);
+---
+Day->24
+# 📘 Complexity Guide by Input Size
+
+This table explains how the maximum input size (`n`) influences the choice of algorithm and its expected time complexity.
+
+| Constraint on `n` | Expected Complexity | Reasoning |
+|-------------------|---------------------|-----------|
+| **n ≤ 20**        | `O(2^n)` or `O(n!)` | For very small inputs, exhaustive search (like generating all subsets or permutations) is feasible. Exponential or factorial algorithms are acceptable because the input size is tiny. |
+| **n ≤ 500**       | `O(n^3)`            | Triple nested loops are manageable here. For example, dynamic programming with cubic complexity (like Floyd–Warshall for all-pairs shortest paths) runs comfortably within limits. |
+| **n ≤ 5,000**     | `O(n^2)`            | Double nested loops are acceptable. Quadratic algorithms (like checking all pairs) can handle this input size without timing out. |
+| **n ≤ 10^5**      | `O(n log n)`        | Sorting or binary search-based solutions are efficient here. Quadratic solutions would be too slow, so logarithmic factors are acceptable. |
+| **n ≤ 10^7**      | `O(n)`              | Only linear-time algorithms are feasible. A single pass or simple counting is required; anything slower will exceed time limits. |
+
+---
+
+## 🔑 Key Takeaways
+- Smaller `n` → more expensive algorithms allowed  
+- Larger `n` → stricter complexity requirements  
+- Always match your algorithm’s complexity to the input size constraint
+
+
+question of codeforces was hard becuse i was trying to use O(n) complexity but i not known that i can use O(n^2) here 
