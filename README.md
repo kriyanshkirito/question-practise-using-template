@@ -73,3 +73,9 @@ This table explains how the maximum input size (`n`) influences the choice of al
 
 
 question of codeforces was hard becuse i was trying to use O(n) complexity but i not known that i can use O(n^2) here 
+
+---
+Day->25 Learn that we can add two string hi+dora=hi dora
+
+---
+Day->2  first question was easy but second question question from codechef was hard so so what we can learn from this question that if question not able to solve then check test case and try dry run your code using test cases then you will see some pattern 
