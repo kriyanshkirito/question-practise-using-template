@@ -78,6 +78,9 @@ question of codeforces was hard becuse i was trying to use O(n) complexity but i
 Day->25 Learn that we can add two string hi+dora=hi dora
 
 ---
-Day->2  first question was easy but second question question from codechef was hard so so what we can learn from this question that if question not able to solve then check test case and try dry run your code using test cases then you will see some pattern 
+Day->26 first question was easy but second question question from codechef was hard so so what we can learn from this question that if question not able to solve then check test case and try dry run your code using test cases then you will see some pattern 
 ---
-Day-> if you want to take common element from list then use map and appply condition p.second>1(occurance greater than 1)
+Day->27 if you want to take common element from list then use map and appply condition p.second>1(occurance greater than 1)
+Day->28
+---
+Day->29 do codeforces question
