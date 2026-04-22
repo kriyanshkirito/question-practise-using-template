@@ -84,3 +84,5 @@ Day->27 if you want to take common element from list then use map and appply con
 Day->28
 ---
 Day->29 do codeforces question
+---
+Day-30  Question was easy

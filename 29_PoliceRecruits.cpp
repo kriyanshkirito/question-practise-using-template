@@ -8,7 +8,9 @@ int main(){
     for(int i=0;i<n;i++){
         cin>>a[i];
 
-    }
+     }
+
+
 
    int count=0,pav=0;
     for(int i=0;i<n;i++){
@@ -29,8 +31,18 @@ int main(){
           
         }
     }
+
     cout<<count<<endl;
 }
+
+
+
+
+
+
+
+
+
 
 
 
