@@ -86,3 +86,7 @@ Day->28
 Day->29 do codeforces question
 ---
 Day-30  Question was easy
+---
+Day-31 Question was not much hard
+---
+Day-32 Exam are going on thats why i am not sumbiting codechef hard question to maintain streak i am doing low rating so i am not sumbiting here 
