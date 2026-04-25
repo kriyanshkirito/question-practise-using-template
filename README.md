@@ -90,3 +90,6 @@ Day-30  Question was easy
 Day-31 Question was not much hard
 ---
 Day-32 Exam are going on thats why i am not sumbiting codechef hard question to maintain streak i am doing low rating so i am not sumbiting here 
+
+Day-33 if we have give floating value x ,y and find remainder when x divided by y then we use fmod(x,y)
+this question can be done in second if got a direct strike
