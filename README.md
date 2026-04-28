@@ -94,3 +94,4 @@ Day-32 Exam are going on thats why i am not sumbiting codechef hard question to 
 Day-33 if we have give floating value x ,y and find remainder when x divided by y then we use fmod(x,y)
 this question can be done in second if got a direct strike
 Day->34 question was interesting 
+Day-35 done learn slicing iota(begin,end,start);
