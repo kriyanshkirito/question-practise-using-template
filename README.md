@@ -95,3 +95,5 @@ Day-33 if we have give floating value x ,y and find remainder when x divided by 
 this question can be done in second if got a direct strike
 Day->34 question was interesting 
 Day-35 done learn slicing iota(begin,end,start);
+Day-36 done easy question
+day-37 done easy question
