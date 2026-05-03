@@ -97,3 +97,7 @@ Day->34 question was interesting
 Day-35 done learn slicing iota(begin,end,start);
 Day-36 done easy question
 day-37 done easy question
+day-38 question was easy
+day-39 question was little hard 
+day -40 done
+Day-41 Done 
