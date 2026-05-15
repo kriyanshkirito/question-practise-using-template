@@ -1,5 +1,3 @@
-
-
 Day 1-> solve the
 ---
 Day 2-> solve first question of the day on codechef 
