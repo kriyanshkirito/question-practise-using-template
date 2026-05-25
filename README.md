@@ -1,4 +1,5 @@
-Day 1 -> solve the questionS 
+Day 1 -> solve the question
+---
 Day 2-> solve first question of the day on codechef 
 ---
 Day->3 Took very long time (learn that when we have to swap array after particular interval then we use loop two times one loop for time interval and other for swapping elements)
