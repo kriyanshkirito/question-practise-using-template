@@ -1,4 +1,4 @@
-Day 1 -> solve the questionss
+Day 1 -> solve the questions
 ---
 Day 2-> solve first question of the day on codechef 
 ---
